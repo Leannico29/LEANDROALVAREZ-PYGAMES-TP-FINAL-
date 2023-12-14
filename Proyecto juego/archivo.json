@@ -1,0 +1,62 @@
+{
+    "constants": {
+    "WINDOW_WIDTH": 800,
+    "WINDOW_HEIGHT": 600,
+    "FPS": 60,
+    "DEBUG": true
+    
+    },
+    "stages": {
+        "stage1": {
+            "player": {
+            "frame_rate": 100,
+            "speed_walk": 6,
+            "speed_run": 12,
+            "gravity": 20,
+            "jump": 16
+            },
+            "enemies": {
+            "quantity": 0,
+            "frame_rate": 100,
+            "speed_walk": 6,
+            "speed_run": 12,
+            "gravity": 20,
+            "jump": 16
+            }
+        },
+        "stage2": {
+            "player": {
+            "frame_rate": 100,
+            "speed_walk": 6,
+            "speed_run": 12,
+            "gravity": 20,
+            "jump": 16
+            },
+            "enemies": {
+            "quantity": 0,
+            "frame_rate": 100,
+            "speed_walk": 6,
+            "speed_run": 12,
+            "gravity": 20,
+            "jump": 16
+            }
+        },
+        "stage3": {
+            "player": {
+            "frame_rate": 100,
+            "speed_walk": 6,
+            "speed_run": 12,
+            "gravity": 20,
+            "jump": 16
+            },
+            "enemies": {
+            "quantity": 0,
+            "frame_rate": 100,
+            "speed_walk": 6,
+            "speed_run": 12,
+            "gravity": 20,
+            "jump": 16
+            }
+    }
+    }
+}
