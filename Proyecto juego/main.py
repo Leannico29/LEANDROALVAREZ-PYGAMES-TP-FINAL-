@@ -175,7 +175,7 @@ while game:
                     color_vida = verde 
     if pg.sprite.spritecollideany(sapardo, frutas):
         sapardo.gain_vida(100)
-        points += 500  # Increment points when collecting frutas
+        points += 500 
         print("Vida después de ganar:", sapardo.get_vida())
         print("Puntos después de ganar:", points)
     vida = sapardo.get_vida()
